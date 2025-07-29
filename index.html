@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drag and Drop Uploader</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="upload-container">
+    <h2>Drag & Drop File Uploader</h2>
+
+    <div class="drop-area" id="drop-area">
+      <p>Drag & Drop image here or click to upload</p>
+      <input type="file" id="fileInput" accept="image/*">
+    </div>
+
+    <div class="preview-area" id="preview-area"></div>
+
+    <div class="progress" id="progress-container">
+      <div class="progress-bar" id="progress-bar"></div>
+    </div>
+
+    <p class="error" id="error-msg"></p>
+
+    <!-- ✅ Clear button added here -->
+    <button id="clear-btn" style="display: none;">Clear Image</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
