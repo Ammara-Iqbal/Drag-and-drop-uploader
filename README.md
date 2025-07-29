@@ -27,12 +27,6 @@ A beautifully animated and responsive image uploader built using **HTML**, **CSS
 
 ---
 
-## 📸 Demo
-
-![Preview](./preview.png)
-
----
-
 ## 🔧 How to Run Locally
 
 1. **Clone the repository**
@@ -42,7 +36,8 @@ A beautifully animated and responsive image uploader built using **HTML**, **CSS
 Open index.html in your browser
 Double-click the file or use Live Server (in VS Code).
 
-##🎨 Tech Stack
+## 🎨 Tech Stack
+
 1. HTML5
 2. CSS3 (with animations & glowy effects)
 3. JavaScript (vanilla)
