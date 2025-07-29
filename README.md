@@ -31,7 +31,7 @@ A beautifully animated and responsive image uploader built using **HTML**, **CSS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/drag-drop-uploader.git
+   git clone https://github.com/Ammara-Iqbal/drag-drop-uploader.git
    cd drag-drop-uploader
 Open index.html in your browser
 Double-click the file or use Live Server (in VS Code).
